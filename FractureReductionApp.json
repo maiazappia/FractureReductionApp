@@ -1,0 +1,14 @@
+
+{
+  "name": "FractureReductionApp",
+  "description": "Tools for semi-automatic segmentation and geometric reduction of fractured bones in 3D Slicer.",
+  "homepage": "https://github.com/tuoRepo/FractureReductionApp",
+  "category": "Segmentation",
+  "contributors": ["Your Name"],
+  "repository": "https://github.com/tuoRepo/FractureReductionApp.git",
+  "icon": "FracturedBoneSegmentation/Resources/Icons/FracturedBoneSegmentation.png",
+  "version": "1.0.0",
+  "slicer_minimum_version": "5.6.0",
+  "slicer_maximum_version": "5.999.999"
+}
+
