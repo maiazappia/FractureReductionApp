@@ -1,0 +1,12 @@
+# FractureReductionApp.s4ext
+
+name=FractureReductionApp
+description=Tools for segmentation and reduction of fractured bones in 3D Slicer.
+homepage=https://github.com/maiazappia/FractureReductionApp
+contributors=Maia Zappia
+category=Segmentation
+icon=FracturedBoneSegmentation/Resources/Icons/FracturedBoneSegmentation.png
+screenshots=
+repository=https://github.com/maiazappia/FractureReductionApp.git
+status=stable
+slicer_revision=31938
